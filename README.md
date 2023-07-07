@@ -11,6 +11,7 @@
 * All errors and malfunctioning interactive links have been repaired.
 
 ![def]
+
 >Find the website here: https://matthewchappelle.github.io/UCI_First_Assignment/
 
 >Repo can be found here: https://github.com/MatthewChappelle/UCI_First_Assignment.git
